@@ -1,5 +1,4 @@
 /* ------------------------------CONNECT FOUR GAME -------------------------------- */
-/* Written By:          Asiman Ismayilova, Duyghu Zeynalli                          */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
